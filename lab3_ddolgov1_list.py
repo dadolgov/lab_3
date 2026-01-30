@@ -10,5 +10,5 @@ my_items=["tent","tent poles", "hammer", "swiss knife", "compass","map",
 print(f"I have {len(my_items)} items in my list.")
 my_items.sort()
 print("here they are in alphabetical order:")
-for i in my_items:
-    print(i)
+print(*my_items,sep=", ")
+print()

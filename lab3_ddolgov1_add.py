@@ -11,6 +11,5 @@ my_items.extend(["food","water","matches","shovel","sleeping bag"])
 my_items.sort(reverse=True)
 print("Here is the extended list of my things in reverse order:")
 
-for item in my_items:
-    print(item)
-
+print(*my_items, sep=", ")
+print(" ")
