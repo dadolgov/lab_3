@@ -1,7 +1,7 @@
 """
 List of items
 Author: Dmitrii Dolgov
-Purpose: prints out the list of things in different orders
+Purpose: prints out the list camping items in dalphabetical order
 1/30/2026
 """
 
