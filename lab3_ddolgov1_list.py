@@ -1,7 +1,7 @@
 """
 List of items
 Author: Dmitrii Dolgov
-Purpose: prints out the list of things as is and in alphabetical order
+Purpose: prints out the list of things in different orders
 1/30/2026
 """
 
